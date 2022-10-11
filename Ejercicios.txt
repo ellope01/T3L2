@@ -4,3 +4,4 @@ Ejercicios T3L2
 2_ tail -n5 users.txt
 3_ tail -n+11 users.txt
 4_ tail -n+11 users.txt|head -n10 
+5_cut --bytes=1 users.txt
