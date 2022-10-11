@@ -3,7 +3,7 @@ Ejercicios T3L2
 1_ head -n10 users.txt
 2_ tail -n5 users.txt
 3_ tail -n+11 users.txt
-4_ tail -n+11 users.txt|head -n10 
+4_ tail -n+11 users.txt|head -n10  /// awk $11$20
 5_cut --bytes=1 users.txt
 6_cut --bytes=1,3,5 users.txt
 7_cat users.txt | grep -v^[#]
