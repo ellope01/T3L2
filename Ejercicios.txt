@@ -7,3 +7,4 @@ Ejercicios T3L2
 5_cut --bytes=1 users.txt
 6_cut --bytes=1,3,5 users.txt
 7_cat users.txt | grep -v^[#]
+8_cat users.txt | grep -v^[#,_]
