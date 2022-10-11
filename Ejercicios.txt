@@ -3,3 +3,4 @@ Ejercicios T3L2
 1_ head -n10 users.txt
 2_ tail -n5 users.txt
 3_ tail -n+11 users.txt
+4_ tail -n+11 users.txt|head -n10 
