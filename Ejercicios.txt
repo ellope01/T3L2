@@ -1,1 +1,3 @@
 Ejercicios T3L2
+
+1_ head -n10 users.txt
