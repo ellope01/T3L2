@@ -8,3 +8,15 @@ Ejercicios T3L2
 6_cut --bytes=1,3,5 users.txt
 7_cat users.txt | grep -v^[#]
 8_cat users.txt | grep -v^[#,_]
+9_
+10_
+11_
+12_
+13_
+14_
+15_
+16_
+17_
+18_
+19_
+20_
