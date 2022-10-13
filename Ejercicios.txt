@@ -9,7 +9,7 @@ Ejercicios T3L2
 7_cat users.txt | grep -v^[#]
 8_cat users.txt | grep -v^[#,_]
 9_  |grep -v^[#]
-10_ |sort -n
+10_ |sort -r
 11_ |sort (nose)
 12_ |sort -n
 13_ |awk '{print $1}
