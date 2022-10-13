@@ -8,15 +8,15 @@ Ejercicios T3L2
 6_cut --bytes=1,3,5 users.txt
 7_cat users.txt | grep -v^[#]
 8_cat users.txt | grep -v^[#,_]
-9_ |grep -v^[#]
-10_ |sort -r
+9_  |grep -v^[#]
+10_ |sort -n
 11_ |sort (nose)
 12_ |sort -n
 13_ |awk '{print $1}
 14_ |awk '{print $1}     {print $*}      
 15_ |sed 's/false/NO/'g users.txt
 16_ |grep system Administrator ////|sed 'l/system Administrator/Administrador del Sistema/' users.txt
-17_
+17_ |sed 's/_//g' users.txt
 18_sed '4/system /Sistema/' users.txt
-19_
-20_
+19_/home/elizabeth/UID
+20_/home/elizabeth/UID |sort -n|sort -n
